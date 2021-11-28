@@ -1,8 +1,8 @@
 {
-  "name": "rocket-chapter-ii-criando-api",
+  "name": "rocket-chapter-iii-continuing-the-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/matheusantonio208/rocket-chapter-ii-criando-api.git",
+  "repository": "https://github.com/matheusantonio208/rocket-chapter-iii-continuing-the-api.git",
   "author": "Matheus Antonio <matheus.antonio208@hotmail.com>",
   "license": "MIT",
   "scripts": {
