@@ -16,7 +16,6 @@ categoriesRoutes.post("/", (request, response) => {
 });
 
 categoriesRoutes.get("/", (request, response) => {
-  console.log("as");
   return listCategoriesController.handle(request, response);
 });
 
